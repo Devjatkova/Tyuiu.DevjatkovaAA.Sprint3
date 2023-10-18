@@ -15,7 +15,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V15.Lib
 
             for (startValue = 1; startValue <= stopValue; startValue++)
             {
-                S += (Math.Pow(value, 2) * startValue) + 1;
+                S += (Math.Pow(value, 2) * startValue) + 1; 
             }
             return Math.Round(S, 3);
         }
