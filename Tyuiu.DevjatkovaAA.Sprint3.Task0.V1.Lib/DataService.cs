@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V15.Lib
+namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V1.Lib
 {
-    public class DataService : ISprint3Task0V15
+    public class DataService : ISprint3Task0V1
     {
         public double GetSumSeries(double value, int startValue, int stopValue)
         {
@@ -15,10 +15,10 @@ namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V15.Lib
 
             for (startValue = 1; startValue <= stopValue; startValue++)
             {
-                S += (Math.Pow(value, 2) * startValue) + 1; 
+                S += (Math.Pow(value, 2) * startValue) + 1;
             }
             return Math.Round(S, 3);
-        }
 
+        }
     }
 }

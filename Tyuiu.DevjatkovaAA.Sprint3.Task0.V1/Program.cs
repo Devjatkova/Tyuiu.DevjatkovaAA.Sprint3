@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.DevjatkovaAA.Sprint3.Task0.V15.Lib;
+using Tyuiu.DevjatkovaAA.Sprint3.Task0.V1.Lib;
 
-namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V15
+namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V1
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V15
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнила: Девяткова А. А. | АСОиУБ-23-3"; 
+            Console.Title = "Спринт #3 | Выполнила: Девяткова А. А. | АСОиУБ-23-3";
             //Длина строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
@@ -36,7 +36,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint3.Task0.V15
 
             double value = 4;
             int startValue = 1;
-            int stopValue = 10;
+            int stopValue = 15;
 
             Console.WriteLine("Переменная х = " + value);
             Console.WriteLine("Старт шага = " + startValue);

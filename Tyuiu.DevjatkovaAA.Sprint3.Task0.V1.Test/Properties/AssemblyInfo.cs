@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Tyuiu.DevjatkovaAA.Sprint3.Task0.V15.Test")]
+[assembly: AssemblyTitle("Tyuiu.DevjatkovaAA.Sprint3.Task0.V1.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.DevjatkovaAA.Sprint3.Task0.V15.Test")]
+[assembly: AssemblyProduct("Tyuiu.DevjatkovaAA.Sprint3.Task0.V1.Test")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("8408ad77-6c57-4cf0-a74b-e55cf94a8980")]
+[assembly: Guid("dd1af157-77d1-452d-a678-2296dd3b11ff")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
